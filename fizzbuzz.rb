@@ -1,4 +1,4 @@
-require_relative '../fizzbuzz.rb'
+
 
 
 def fizzbuzz(num)
